@@ -19,7 +19,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@Prakassh)
+[![wakatime](https://wakatime.com/badge/user/018e13ec-9d2f-4b76-bb37-f8f3f3f16e4a.svg)](https://wakatime.com/@018e13ec-9d2f-4b76-bb37-f8f3f3f16e4a)
 
 <!-- Intro  -->
 <h3 align="center">
