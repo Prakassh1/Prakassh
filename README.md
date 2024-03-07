@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Tech Stacks
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -88,7 +88,7 @@
 
 <br/>
 
-## Top Open Source -
+## Top Open Source Repo-
 [![food-ordering-system](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=food-ordering-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/food-ordering-system)
 [![Fake-News-Detector](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=Fake-News-Detector&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/Fake-News-Detector)
 [![Activity Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=Activity-Tracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/Activity-Tracker)
@@ -122,3 +122,11 @@
 
 
 ![Prakassh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakassh1&custom_title=Prakassh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+## :trophy: Git profile Trophies 
+ 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prakassh1&layout=compact&theme=algolia" alt="Prakassh" /></a> </p> <br>
+
+[![Prakassh Github Activity graph](https://activity-graph.herokuapp.com/graph?username=Prakassh1&theme=react-dark)](https://github.com/Prakassh1/github-readme-activity-graph)
