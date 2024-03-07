@@ -114,6 +114,11 @@
   </a>
 </p>
 
+## :trophy: Git profile Trophies 
+ 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prakassh1&layout=compact&theme=algolia" alt="Prakassh" /></a> </p> <br>
+
+
 <a> 
     <a href="https://github.com/Prakassh1"><img alt="Prakassh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Prakassh1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Prakassh1"><img alt="Prakassh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Prakassh1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -125,8 +130,4 @@
 
 
 
-## :trophy: Git profile Trophies 
- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prakassh1&layout=compact&theme=algolia" alt="Prakassh" /></a> </p> <br>
 
-[![Prakassh Github Activity graph](https://activity-graph.herokuapp.com/graph?username=Prakassh1&theme=react-dark)](https://github.com/Prakassh1/github-readme-activity-graph)
