@@ -1,18 +1,18 @@
 # Prakassh
 
-<!--
+
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Prakassh's Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
-<!--
+
+
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Prakassh1"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
- -->
+ 
 
 <a href="https://komarev.com/ghpvc/?username=prakassh1">
   <img align="right" src="https://komarev.com/ghpvc/?username=prakassh1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -24,29 +24,25 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Prakassh</a></b>
+                <b><a target="_blank">Prakassh</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Tamil Nadu</b> 」
     <br>
     <br>
   </samp>
 </p>
-<!-- https://linkedin.com/in/prakassh-ks  -1733271b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app -->
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/prakassh-ks-1733271b1/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
  <a href="https://x.com/prakassh1/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
@@ -71,7 +67,6 @@
  💬 &emsp; Ask me about anything [here](https://github.com/Prakassh1/Prakassh/issues)
 
 </p>
-
 <br/>
 <br/>
 <br/>
@@ -95,7 +90,7 @@
 
 ## Top Open Source -
 [![food-ordering-system](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=food-ordering-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/food-ordering-system)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
+[![Fake-News-Detector](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=Fake-News-Detector&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
 [![Activity Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=Activity-Tracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/Activity-Tracker)
 [![Prakassh Readme](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=Prakassh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/Prakassh)
 
