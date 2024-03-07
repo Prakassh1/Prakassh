@@ -47,13 +47,13 @@
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/_alsiam" target="_blank">
+ <a href="https://x.com/prakassh1/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
+ <a href="https://instagram.com/_prakassh_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
+ <a href="https://www.facebook.com/prakassh.sport.5/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
@@ -65,10 +65,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ ✌️ &emsp; Enjoy to learn aswell as do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to write code and learn new stacks<br/><br/>
+ 📧 &emsp; Reach me anytime: prakasshprakassh65@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Prakassh1/Prakassh/issues)
 
 </p>
 
