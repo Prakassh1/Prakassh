@@ -92,7 +92,7 @@
 [![food-ordering-system](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=food-ordering-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/food-ordering-system)
 [![Fake-News-Detector](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=Fake-News-Detector&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/Fake-News-Detector)
 [![Activity Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=Activity-Tracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/Activity-Tracker)
-[![Prakassh Readme](https://github-readme-stats.vercel.app/api/pin/?username=Prakassh1&repo=Prakassh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Prakassh1/Prakassh)
+
 
 <p align="left">
   <a href="https://github.com/prakassh1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
