@@ -19,7 +19,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018e13ec-9d2f-4b76-bb37-f8f3f3f16e4a/project/018e13f4-d57f-41f4-bf53-8ea6e40a30b1.svg)](https://wakatime.com/badge/user/018e13ec-9d2f-4b76-bb37-f8f3f3f16e4a/project/018e13f4-d57f-41f4-bf53-8ea6e40a30b1)
+[![wakatime](https://wakatime.com/badge/user/018e13ec-9d2f-4b76-bb37-f8f3f3f16e4a.svg)](https://wakatime.com/@018e13ec-9d2f-4b76-bb37-f8f3f3f16e4a)
 
 <!-- Intro  -->
 <h3 align="center">
